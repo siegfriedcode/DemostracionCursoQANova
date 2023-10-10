@@ -23,5 +23,10 @@ public class Logeo {
         login.ingresarClave(clave);
         login.clickBtnIngresar();
         cargaInformacion.recuperarTitulo();
+        cargaInformacion.rellenarCampoTexto("Testeo");
+        cargaInformacion.rellenarCampoMail("prueba@testeo.cl");
+        cargaInformacion.rellenarCampoAreaTexto("Prueba de testeo automatización Java con Selenium.");
+        cargaInformacion.rellenarCampoFecha("10/10/2023");
+        cargaInformacion.rellenarCampoLista("valor 3");
     }
 }

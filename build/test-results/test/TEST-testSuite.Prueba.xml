@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="testSuite.Prueba" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-10T17:00:42" hostname="siegfried-virtual-machine" time="1.952">
+<testsuite name="testSuite.Prueba" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-10T18:09:10" hostname="siegfried-virtual-machine" time="2.846">
   <properties/>
-  <testcase name="pruebaLogin" classname="testSuite.Prueba" time="1.952"/>
+  <testcase name="pruebaLogin" classname="testSuite.Prueba" time="2.846"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

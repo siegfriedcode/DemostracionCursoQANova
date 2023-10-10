@@ -1,12 +1,12 @@
-page/CargaInformacion.java
- page.CargaInformacion
+page/Login.java
+ page.Login
 page/Google.java
  page.Google
 testClass/BusquedaAnimalesGoogle.java
  testClass.BusquedaAnimalesGoogle
+page/CargaInformacion.java
+ page.CargaInformacion
 testClass/Logeo.java
  testClass.Logeo
 testSuite/Prueba.java
  testSuite.Prueba
-page/Login.java
- page.Login
