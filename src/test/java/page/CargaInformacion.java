@@ -128,4 +128,30 @@ public class CargaInformacion {
             }
         }
     }
+
+    public void comboRadio(int indicador){
+        switch (indicador){
+            case 1:
+                rdbtnCombo1.click();;
+                break;
+
+            case 2:
+                rdbtnCombo2.click();
+                break;
+
+            case 3:
+                rdbtnCombo3.click();
+                break;
+
+            default:
+        }
+    }
+
+    public void clickBtnEnviar(){
+        btnEnviar.click();
+    }
+
+    public void clickBtnReset(){
+        btnResetear.click();
+    }
 }

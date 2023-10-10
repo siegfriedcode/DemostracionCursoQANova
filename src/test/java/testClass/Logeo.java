@@ -23,12 +23,14 @@ public class Logeo {
         login.ingresarClave(clave);
         login.clickBtnIngresar();
         cargaInformacion.recuperarTitulo();
-        cargaInformacion.rellenarCampoTexto("Testeo");
+        cargaInformacion.rellenarCampoTexto("Testeo CAFB");
         cargaInformacion.rellenarCampoMail("prueba@testeo.cl");
         cargaInformacion.rellenarCampoAreaTexto("Prueba de testeo automatización Java con Selenium.");
         cargaInformacion.rellenarCampoFecha("10/10/2023");
         cargaInformacion.rellenarCampoLista("valor 3");
         //cargaInformacion.seleccionMultiple(2);
         cargaInformacion.seleccionMultiple2("2,3");
+        cargaInformacion.comboRadio(1);
+        cargaInformacion.clickBtnEnviar();
     }
 }
