@@ -1,6 +1,12 @@
-testSuite/Prueba.java
- testSuite.Prueba
-testClass/BusquedaAnimalesGoogle.java
- testClass.BusquedaAnimalesGoogle
+page/CargaInformacion.java
+ page.CargaInformacion
 page/Google.java
  page.Google
+testClass/BusquedaAnimalesGoogle.java
+ testClass.BusquedaAnimalesGoogle
+testClass/Logeo.java
+ testClass.Logeo
+testSuite/Prueba.java
+ testSuite.Prueba
+page/Login.java
+ page.Login
