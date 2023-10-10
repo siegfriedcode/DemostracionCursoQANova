@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testSuite.Prueba" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-07T00:17:35" hostname="siegfried-virtual-machine" time="0.719">
+  <properties/>
+  <testcase name="buscarPerroEnGoogle" classname="testSuite.Prueba" time="0.719"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
