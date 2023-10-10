@@ -106,4 +106,26 @@ public class CargaInformacion {
         }
     }
 
+    public void seleccionMultiple2(String indicador) {
+        String[] indicadores = indicador.split(",");
+        for (String nro : indicadores) {
+            int numero = Integer.parseInt(nro);
+            switch (numero) {
+                case 1:
+                    campoMultiple1.click();
+                    break;
+
+                case 2:
+                    campoMultiple2.click();
+                    break;
+
+                case 3:
+                    campoMultiple3.click();
+                    break;
+
+                default:
+                    System.out.println("Valor no procesable");
+            }
+        }
+    }
 }
