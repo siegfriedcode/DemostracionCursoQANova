@@ -1,12 +1,34 @@
-page/Login.java
- page.Login
-page/Google.java
- page.Google
-testClass/BusquedaAnimalesGoogle.java
- testClass.BusquedaAnimalesGoogle
-page/CargaInformacion.java
- page.CargaInformacion
 testClass/Logeo.java
  testClass.Logeo
+page/Login.java
+ page.Login
+testClass/BusquedaAnimalesGoogle.java
+ testClass.BusquedaAnimalesGoogle
+page/Google.java
+ page.Google
+utils/Utils.java
+ utils.Utils
+utils/Reporte/PdfQaNovaReports.java
+ utils.Reporte.PdfQaNovaReports
+ utils.Reporte.PdfQaNovaReports$1
+utils/DriverManager.java
+ utils.DriverManager
+ utils.DriverManager$1
+utils/Reporte/ImageResize.java
+ utils.Reporte.ImageResize
+utils/DriverContext.java
+ utils.DriverContext
+utils/ReadProperties.java
+ utils.ReadProperties
+utils/Constants/Ambientes.java
+ utils.Constants.Ambientes
 testSuite/Prueba.java
  testSuite.Prueba
+utils/Constants/Constants.java
+ utils.Constants.Constants
+utils/Reporte/EstadoPrueba.java
+ utils.Reporte.EstadoPrueba
+utils/Constants/Navegador.java
+ utils.Constants.Navegador
+page/CargaInformacion.java
+ page.CargaInformacion
